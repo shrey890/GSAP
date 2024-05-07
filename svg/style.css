@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html,
+body {
+	height: 100vh;
+	width: 100vw;
+}
+body {
+	background-color: rgb(141, 141, 141);
+	color: whitesmoke;
+}
+#string {
+	width: 100vw;
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+svg {
+	color: white;
+}
